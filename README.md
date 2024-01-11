@@ -1,2 +1,1 @@
-# typescript
-the basics of typescript
+# typescript-
